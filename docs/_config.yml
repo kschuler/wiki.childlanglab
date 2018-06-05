@@ -89,8 +89,8 @@ exclude:
   - Gemfile.lock
   - node_modules
 
-sass:
-  style:            compressed
+# sass:
+#   style:            compressed
 
 collections:
   docs:
